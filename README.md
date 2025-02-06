@@ -1,4 +1,4 @@
-# Here is the code used in my Youtube video About the Open AI Whisper Library
+# Here is the code used in my Youtube video About the DeepSeek R1 API
 
 # Video
 Video is here, check it out!
